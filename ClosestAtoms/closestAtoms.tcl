@@ -1,5 +1,5 @@
 # closestAtoms - compare atomSet1 to atomSet2 and produce a list of correspondences
-#   between the two sets, the atoms in atomSet2 that are closest to the each atom
+#   between the two sets, the atoms in atomSet2 that are closest to each atom
 #   of atomSet1
 #     atomSet1: atomselect
 #     atomSet2: atomselect
